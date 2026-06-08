@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm **LiNa-RaNdS**, a Computer Science student with a growing passion for cybersecurity, programming, and technology.
+I'm **LiNa-RaNdS**, a Computer Science and Cybersec student with a growing passion for cybersecurity, programming, and technology.
 
 Currently exploring cybersecurity, Linux, C++, Python, and AI while surviving university one assignment at a time.
 
