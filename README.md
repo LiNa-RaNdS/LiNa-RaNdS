@@ -54,20 +54,18 @@ When I'm not studying, you'll probably find me researching random tech topics, w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LiNa-RaNdS&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=d9a7c7&icon_color=d9a7c7&text_color=fffcdc&count_private=true"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=LiNa-RaNdS&theme=radical&hide_border=true&background=1a1a2e&ring=d9a7c7&fire=d9a7c7&currStreakLabel=fffcdc"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiNa-RaNdS&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=d9a7c7&text_color=fffcdc&langs_count=8" height="165"/>
 
 </div>
 
 <br>
 
-## 🏆 Trophies
+## 🔗 Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LiNa-RaNdS&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D9A7C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
